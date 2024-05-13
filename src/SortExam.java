@@ -9,7 +9,7 @@ public class SortExam {
         list.add("lee");
         list.add("hong");
 
-        Collections.shuffle(list);
+        Collections.sort(list);
 
         for(int i=0; i< list.size(); i++){
             System.out.println(list.get(i));

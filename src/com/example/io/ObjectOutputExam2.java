@@ -1,4 +1,4 @@
-package io;
+package com.example.io;
 
 import java.io.FileOutputStream;
 import java.io.ObjectOutputStream;
